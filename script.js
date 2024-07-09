@@ -1,6 +1,6 @@
 const movies = [
   "Naruto",
-  "Movie Title 2",
+  "Death note",
   // Add more movie titles here
 ];
 
